@@ -2,6 +2,25 @@ body {
     font-family: sans-serif;
 }
 
+
+h1 {
+    padding-bottom: 12px;
+}
+
 nav {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+nav a {
+    background-color: #FFD867;
+    color: #000;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 7px 12px;
+    margin: 2px;
+}
+
+li {
+    font-size: 18px;
+    line-spacing: 14px;
 }
